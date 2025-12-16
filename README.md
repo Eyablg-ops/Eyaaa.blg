@@ -50,7 +50,7 @@ I enjoy building systems that connect **hardware, data, and scalable software** 
 
 ### Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,cpp,c,python,go,sql" />
+  <img src="https://skillicons.dev/icons?i=java,spring,c,python,sql" />
 </p>
 
 ### Backend & Distributed Systems
@@ -71,11 +71,6 @@ I enjoy building systems that connect **hardware, data, and scalable software** 
   <img src="https://skillicons.dev/icons?i=git,github,figma" />
   <img src="https://img.shields.io/badge/Cobra%20CLI-5cb97d?style=for-the-badge&logo=go&logoColor=white" />
 </p>
-
----
-
-## 📊 GitHub Stats
-![Eya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eyaaa.blg&show_icons=true&theme=vue&hide=issues)
 
 ---
 
